@@ -8,12 +8,12 @@ Senior Software Engineer focused on building scalable web and mobile application
 
 I have experience working across frontend, backend, and full stack development, collaborating with international teams and contributing to scalable and maintainable products.
 
-🌍 I'm based in Cochabamba, Bolivia
-✉️ You can contact me at joshuanostas49@gmail.com
-🚀 I'm currently building Luna Pets, Amare invites and working on scalable communication and AI-driven applications
-🧠 I'm continuously learning more about AI development, automation, and scalable system design
-🤝 I'm open to collaborating on interesting projects and innovative ideas
-⚡ I enjoy music production, reading, technology, and continuous learning
+- 🌍 I'm based in Cochabamba, Bolivia
+- ✉️ You can contact me at joshuanostas49@gmail.com
+- 🚀 I'm currently building Luna Pets, Amare invites and working on scalable communication and AI-driven applications
+- 🧠 I'm continuously learning more about AI development, automation, and scalable system design
+- 🤝 I'm open to collaborating on interesting projects and innovative ideas
+- ⚡ I enjoy music production, reading, technology, and continuous learning
 
 ### Main Technologies
 
