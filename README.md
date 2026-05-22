@@ -4,14 +4,20 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full-stack developer
 --------------------
 
-I am a Systems Engineer with almost three years of experience in software development. I am eager to keep learning and improving skills to be part of technological development and be a relevant professional.
+Senior Software Engineer focused on building scalable web and mobile applications with strong interests in software architecture, AI-powered products, and modern product engineering. I enjoy solving real-world problems through technology and continuously learning new tools, frameworks, and development practices.
 
-* 🌍  I'm based in Cochabamba, Bolivia
-* ✉️  You can contact me at [joshuanostas49@gmail.com](mailto:joshuanostas49@gmail.com)
-* 🚀  I'm currently working on [Luna Pets](http://lunapets.co/)
-* 🧠  I'm learning Flutter and mobile development
-* 🤝  I'm open to collaborating on interesting projects
-* ⚡  I love listening to and making music
+I have experience working across frontend, backend, and full stack development, collaborating with international teams and contributing to scalable and maintainable products.
+
+🌍 I'm based in Cochabamba, Bolivia
+✉️ You can contact me at joshuanostas49@gmail.com
+🚀 I'm currently building Luna Pets, Amare invites and working on scalable communication and AI-driven applications
+🧠 I'm continuously learning more about AI development, automation, and scalable system design
+🤝 I'm open to collaborating on interesting projects and innovative ideas
+⚡ I enjoy music production, reading, technology, and continuous learning
+
+### Main Technologies
+
+Flutter • React • TypeScript • JavaScript • Node.js • NestJS • Firebase • Clean Architecture • AI Tools & Automation
 
 <a href="https://www.twitter.com/josh_nostas" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/josh_nostas?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
